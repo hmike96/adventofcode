@@ -1,12 +1,9 @@
 package main
 
 import (
-	"log"
-	"os"
-
-	AoC2021 "github.com/hmike1996/adventofcode"
+	AoC2023 "github.com/hmike1996/adventofcode/2023"
 )
 
 func main() {
-	AoC2021.Solutions()
+	AoC2023.Solutions()
 }

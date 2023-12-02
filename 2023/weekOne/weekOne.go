@@ -1,4 +1,3 @@
-
 package adventofcode2023
 
 import (
@@ -6,7 +5,7 @@ import (
 	"os"
 )
 
-func dayOne() {
+func weekOne() {
 	fmt.Println("Day One")
 	fileContents, err := readFile("adventOfCode/2023/weekOne/input.txt")
 	if err != nil {

@@ -5,5 +5,5 @@ import (
 )
 
 func Solutions() {
-	dayOne.dayOne()
+	dayOne.weekOne()
 }
