@@ -1,9 +1,9 @@
 package adventofcode2023
 
 import (
-	weekTwo "github.com/hmike1996/adventofcode/2023/weekOne"
+	weekThree "github.com/hmike1996/adventofcode/2023/weekThree"
 )
 
 func Solutions() {
-	weekTwo.WeekOne()
+	weekThree.WeekThree()
 }
