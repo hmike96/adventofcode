@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestWeekOne(t *testing.T) {
+func TestWeekTwo(t *testing.T) {
 	// Test cases
 	tests := []struct {
 		input  []string
